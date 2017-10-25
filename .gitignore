@@ -1,0 +1,6 @@
+*
+!.gitignore
+!LICENSE
+!main.cpp
+!raytracer.cl
+!README.md
